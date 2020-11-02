@@ -1,0 +1,5 @@
+Which of the following is true about packages in Go?,a) The first line of the program package defines the package name in which a Go program should lie.,b) It is a must statement as Go programs runs in packages.,c) Each package has a path and name associated with it.,d) All of the above.,d
+Which of the following is not a boolean type in Go?,a) true,b) false,c) 0,d) All of the above.,c
+What are the advantages of GO?,a) GO compiles very quickly,b) Go supports concurrency at the language level,c) Functions are firstclass objects in GO,d) All of these,d
+Which of the following is correct about nil pointer in Go?,a) Go compiler assign a Nil value to a pointer variable in case you do not have exact address to be assigned.,b) Nil value assignment is done at the time of variable declaration.,c) A pointer that is assigned nil is called a nil pointer.,d) All of these,d
+Does Go support pointer arithmetics?,a) yes,b) no,c),d),b
